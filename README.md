@@ -1,2 +1,2 @@
-# http://gchat.github.io/chatbox06/index.php
+# http://gchat.github.io
 Personal
